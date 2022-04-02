@@ -3,7 +3,7 @@
 <br>
 
 <p>:metal: I am interested and I get involved in developing solutions from programming languages.</p>
-<p>:computer: I'm currently learning about JavaScript, React.js and Node.js. :notebook:</p>
+<p>:computer: I'm currently learning about Angular and Java. :notebook:</p>
 <p>:octocat: I would love to collaborate in a virtual reality project or related to a videogame :video_game:.</p>
 <p>:mailbox: You can contact me on 
   <a href="https://www.linkedin.com/in/raulestebanlunamercado/">Linkedin</a>
